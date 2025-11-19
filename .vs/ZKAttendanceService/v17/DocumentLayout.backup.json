@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\configuration\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\configuration\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\configuration\\syncconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\configuration\\syncconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\configuration\\deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\configuration\\deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\zkdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\zkdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\peakhourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\peakhourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\zkattendanceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\zkattendanceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\data\\zkattendancewebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\data\\zkattendancewebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\isyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\isyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\izkdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\izkdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\iwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\iwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\systemsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\systemsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\configuration\\webapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\configuration\\webapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\workshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\workshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\synclog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\synclog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\deviceerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\deviceerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025115129_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251025115129_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025114726_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251025114726_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\zkattendanceservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\zkattendanceservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\migrations\\20251105111938_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\migrations\\20251105111938_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|c:\\users\\faisa\\source\\repos\\zkattendanceservice\\zkattendanceservice\\migrations\\20251105111513_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9588BB5-9DFF-420C-B43A-2E5A5C10D022}|ZKAttendanceService\\ZKAttendanceService.csproj|solutionrelative:zkattendanceservice\\migrations\\20251105111513_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZKDeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ZKDeviceService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\ZKDeviceService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ZKDeviceService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\ZKDeviceService.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAUwOIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:24:42.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\DeviceConfiguration.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Configuration\\DeviceConfiguration.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\DeviceConfiguration.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Configuration\\DeviceConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:33:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\appsettings.json",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\appsettings.json",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\appsettings.json",
+              "RelativeToolTip": "ZKAttendanceService\\appsettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T07:06:56.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Branch.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:27:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Program.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Program.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Program.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:19:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Configuration\\BranchConfiguration.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\BranchConfiguration.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Configuration\\BranchConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:23:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SyncService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\SyncService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\SyncService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\SyncService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\SyncService.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAmwHQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:25:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyncConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\SyncConfiguration.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Configuration\\SyncConfiguration.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\SyncConfiguration.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Configuration\\SyncConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:33:27.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Worker.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Worker.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Worker.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:26:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeakHourService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\PeakHourService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\PeakHourService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\PeakHourService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\PeakHourService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:14:48.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZKAttendanceService.csproj",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\ZKAttendanceService.csproj",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\ZKAttendanceService.csproj",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\ZKAttendanceService.csproj",
+              "RelativeToolTip": "ZKAttendanceService\\ZKAttendanceService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:18:13.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendanceLog.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\AttendanceLog.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\AttendanceLog.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\AttendanceLog.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\AttendanceLog.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:28:11.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt",
+              "DocumentMoniker": "C:\\Users\\faisa\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt",
+              "ToolTip": "C:\\Users\\faisa\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_ebe49143-81a9-4e4b-a18b-2f68e5e3716b.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T11:49:39.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251105110221_AddUniqueHash.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251105110221_AddUniqueHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:02:22.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251105111938_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105111938_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251105111938_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105111938_InitialCreate1.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251105111938_InitialCreate1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:19:38.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251105111513_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105111513_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251105111513_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251105111513_InitialCreate.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251105111513_InitialCreate.cs",
+              "ViewState": "AgIAADQCAAAAAAAAAAAcwEACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:15:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ZKAttendanceWebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Data\\ZKAttendanceWebDbContext.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Data\\ZKAttendanceWebDbContext.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Data\\ZKAttendanceWebDbContext.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Data\\ZKAttendanceWebDbContext.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAA+wEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:22:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISyncService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ISyncService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\ISyncService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ISyncService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\ISyncService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:25:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IZKDeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IZKDeviceService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\IZKDeviceService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IZKDeviceService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\IZKDeviceService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:24:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IWebApiService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IWebApiService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\IWebApiService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IWebApiService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\IWebApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:50:53.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemSetting.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\SystemSetting.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\SystemSetting.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\SystemSetting.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\SystemSetting.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:29:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\WebApiSettings.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Configuration\\WebApiSettings.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Configuration\\WebApiSettings.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Configuration\\WebApiSettings.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:10:28.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApiService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\WebApiService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\WebApiService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\WebApiService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\WebApiService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:50:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IConfigurationService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\IConfigurationService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\IConfigurationService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\IConfigurationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:37:29.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Services\\ConfigurationService.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAowPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:37:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkShift.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\WorkShift.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\WorkShift.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\WorkShift.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\WorkShift.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:56:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SyncLog.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\SyncLog.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\SyncLog.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\SyncLog.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\SyncLog.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:28:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Holiday.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\Holiday.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Holiday.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\Holiday.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:56:58.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Employee.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\Employee.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:27:58.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeviceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\DeviceStatus.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\DeviceStatus.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\DeviceStatus.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\DeviceStatus.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:29:10.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeviceError.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\DeviceError.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\DeviceError.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\DeviceError.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\DeviceError.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:28:38.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Department.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\Department.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:02:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Models\\Device.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Models\\Device.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAzwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:27:42.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251026082145_AddTable.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251026082145_AddTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:21:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251026085735_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251026085735_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:57:36.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251025115129_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025115129_Initial.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251025115129_Initial.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025115129_Initial.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251025115129_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:51:30.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251025113711_InitialSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251025113711_InitialSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:37:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251025114726_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025114726_Initial.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251025114726_Initial.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251025114726_Initial.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251025114726_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:47:26.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251020060857_FixedSyncLogPrimaryKey.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251020060857_FixedSyncLogPrimaryKey.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:08:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251019102301_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251019102301_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T10:23:01.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251019095436_FixSyncLogIdentityColumn.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251019095436_FixSyncLogIdentityColumn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:54:36.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251019094729_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251019094729_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:47:29.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251019090051_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251019090051_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:00:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251019090111_InitialDatabaseSetup.cs",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs",
+              "RelativeToolTip": "ZKAttendanceService\\Migrations\\20251019090111_InitialDatabaseSetup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:01:11.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ZKAttendanceService",
+              "DocumentMoniker": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\ZKAttendanceService.csproj",
+              "RelativeDocumentMoniker": "ZKAttendanceService\\ZKAttendanceService.csproj",
+              "ToolTip": "C:\\Users\\faisa\\source\\repos\\ZKAttendanceService\\ZKAttendanceService\\ZKAttendanceService.csproj",
+              "RelativeToolTip": "ZKAttendanceService\\ZKAttendanceService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T07:14:14.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
